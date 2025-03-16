@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: 'gambarino';
-  src: url(./public/fonts/gambarino/Gambarino-Regular.woff2);
+  src: url(/fonts/gambarino/Gambarino-Regular.woff2);
 }
 @font-face {
   font-family: 'santoshi';
-  src: url(./public/fonts/santoshi/Satoshi-Variable.woff2);
+  src: url(/fonts/santoshi/Satoshi-Variable.woff2);
 }
 
 
@@ -591,6 +591,7 @@ nav {
     padding: 2rem;
     h3 {
       font-size: 3rem;
+      color: black;
     }
     .us-about {
       padding-left: 2rem;
@@ -605,7 +606,8 @@ nav {
           p {
             font-family: Arial, Helvetica, sans-serif;
             line-height: 1.6rem;
-            font-size: 1.3rem !important;
+            font-size: 1rem;
+            color: black;
           }
         }
       }
@@ -619,6 +621,10 @@ nav {
       width: 100%;
     }
   }
+}
+
+i {
+  color: black;
 }
 
 .contact-section {
@@ -716,9 +722,6 @@ nav {
           flex-direction: column;
           justify-content: flex-start;
           align-items: flex-start;
-          h3 {
-            color: skyblue;
-          }
         }
       }
       .socials {
@@ -838,8 +841,16 @@ video {
 }
 
 @media (max-width:600px) {
+  .why-us {
+    .us-about {
+      ul li p {
+        font-size: .9rem!important;
+        color: blue;
+      }
+    }
+  }
   .contact-section {
-    background-image: url(./public/);
+    background-image: url(/);
     background-size: cover;
     background-position: 50% 50%;
     backdrop-filter: grayscale(100%);
@@ -916,7 +927,7 @@ video {
     flex-direction: column-reverse;
     .us-about {
       ul li p {
-        font-size: .7rem!important;
+        font-size: .9rem!important;
       }
     }
     .us-info , .us-image {
@@ -983,6 +994,9 @@ video {
 }
 
 @media (max-width: 550px) {
+  .us-about {
+    padding-left: .5rem!important;
+  }
   .about-info {
     h1 {
       font-size: 1.1rem!important;

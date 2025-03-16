@@ -699,7 +699,7 @@ const Nav = () => {
                   <div className="line-con">
                     <div className="line"></div>
                     <Link
-                      to='/work/thumbnail/podcast'
+                      to='/work/editing/advance/podcast'
                       className="page-redirect"
                     >
                       Podcasts
@@ -708,7 +708,7 @@ const Nav = () => {
                   <div className="line-con">
                     <div className="line"></div>
                     <Link
-                      to='/work/thumbnail/business'
+                      to='/work/editing/advance/business'
                       className="page-redirect"
                     >
                       Business ADS
@@ -717,7 +717,7 @@ const Nav = () => {
                   <div className="line-con">
                     <div className="line"></div>
                     <Link
-                      to='/work/thumbnail/gym'
+                      to='/work/editing/advance/gym'
                       className="page-redirect"
                     >
                       GYM Edits
@@ -726,7 +726,7 @@ const Nav = () => {
                   <div className="line-con">
                     <div className="line"></div>
                     <Link
-                      to='/work/thumbnail/animated'
+                      to='/work/editing/advance/animated'
                       className="page-redirect"
                     >
                       Animated Edits
@@ -735,7 +735,7 @@ const Nav = () => {
                   <div className="line-con">
                     <div className="line"></div>
                     <Link
-                      to='/work/thumbnail/faceless'
+                      to='/work/editing/advance/faceless'
                       className="page-redirect"
                     >
                       Faceless Edits
@@ -744,7 +744,7 @@ const Nav = () => {
                   <div className="line-con">
                     <div className="line"></div>
                     <Link
-                      to='/work/thumbnail/health'
+                      to='/work/editing/advance/health'
                       className="page-redirect"
                     >
                       Health Edits
@@ -753,7 +753,7 @@ const Nav = () => {
                   <div className="line-con">
                     <div className="line"></div>
                     <Link
-                      to='/work/thumbnail/tech'
+                      to='/work/editing/advance/tech'
                       className="page-redirect"
                     >
                       Tech Reels
@@ -762,7 +762,7 @@ const Nav = () => {
                   <div className="line-con">
                     <div className="line"></div>
                     <Link
-                      to='/work/thumbnail/gaming'
+                      to='/work/editing/advance/gaming'
                       className="page-redirect"
                     >
                       Gaming Reels
@@ -771,7 +771,7 @@ const Nav = () => {
                   <div className="line-con">
                     <div className="line"></div>
                     <Link
-                      to='/work/thumbnail/interview'
+                      to='/work/editing/advance/interview'
                       className="page-redirect"
                     >
                       Interview Reels
@@ -780,7 +780,7 @@ const Nav = () => {
                   <div className="line-con">
                     <div className="line"></div>
                     <Link
-                      to='/work/thumbnail/education'
+                      to='/work/editing/advance/education'
                       className="page-redirect"
                     >
                       Education Reels

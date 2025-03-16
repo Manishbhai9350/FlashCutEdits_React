@@ -1,11 +1,11 @@
 import { useForm } from "@formspree/react";
+import '../index.css'
 
 function ContactForm() {
-  console.log(import.meta.env);
   const [state, handleSubmit, reset] = useForm(
     import.meta.env.FormSpreeId || "xdkeojwk"
   );
-  if (state.succeeded || true) {
+  if (state.succeeded) {
     return (
       <div style={{height:100,display:'flex',alignItems:'center'}}>
         <h1 className="santoshi" style={{ color: "white", fontSize: "1.4rem" }}>
