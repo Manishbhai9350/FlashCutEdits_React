@@ -56,13 +56,37 @@ export const WorkData = {
                             id:'13XrmwqUya4NmWaouXFGLZt6a30gFmgpS',
                             tag:'Podcast Edit'
                         },
+                        {
+                            id:'1Oywhikhn1J9N5Jf0oR3UnS8qSINFkNEd',
+                            tag:'Podcast Edit'
+                        },
                     ]
                 },
                 business:{
-                    title:'Business ADS'
+                    title:'Business ADS',
+                    works:[
+                        {
+                            id:'1REUSdseA1nBuNjkxSFT4bHxjwB25cGKB',
+                            tag:'Business Video Edit'
+                        },
+                        {
+                            id:'1pcHAxfAZCqiqXWowR4dnffkitz8CpHnQ',
+                            tag:'Business Video Edit'
+                        },
+                    ]
                 },
                 gym:{
-                    title:"GYM Edits"
+                    title:"GYM Edits",
+                    works:[
+                        {
+                            id:'1oxF7vmQQc7jICWHMO4CD299Xvreahq2r',
+                            tag:'GYM Video Editing'
+                        },
+                        {
+                            id:'1UnPuAT41JNApzNHX2_YYqniIJobskUHo',
+                            tag:'GYM Video Editing'
+                        },
+                    ]
                 },
                 animated:{
                     title:"Animated Edits"
@@ -82,10 +106,32 @@ export const WorkData = {
                             id:'10XmisHlQM4otA3JmLh4AonY_4xM6lMbw',
                             tag:'Faceless Video Editing'
                         },
+                        {
+                            id:'1snJqFvLz8EFpuVyj3_1b0lE8GXweeh52',
+                            tag:'Faceless Video Editing'
+                        },
+                        {
+                            id:'14tjjk0nO2wrm0l4bRSXYzsveIwpwluj3',
+                            tag:'Faceless Video Editing'
+                        },
+                        {
+                            id:'14JA0scMctftVT0vjH5gKPA1wNqbkNzEk',
+                            tag:'Faceless Video Editing'
+                        },
+                        {
+                            id:'1vPMqEp8EoRI0NxJvrpP_d0IkXIX15lVI',
+                            tag:'Faceless Video Editing'
+                        },
                     ]
                 },
                 health:{
-                    title:"Health Edits"
+                    title:"Health Edits",
+                    works:[
+                        {
+                            id:'1KpDpBcymBVoM7SoWWwZpWtqOvoXhshd1',
+                            tag:'Health Edits'
+                        },
+                    ]
                 },
                 tech:{
                     title:"Tech Reels",
