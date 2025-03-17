@@ -44,7 +44,7 @@ const HomePage = () => {
             </div>
             <div className="service">
               <div className="image">
-                <img src="public/edit.jpg" alt="" />
+                <img src="/edit.jpg" alt="" />
               </div>
               <h4 className="courier">Graphic Desinging</h4>
             </div>
@@ -70,14 +70,14 @@ const HomePage = () => {
         <div className="us-about">
           <ul>
             <li>
-              <p style={{fontSize: ".88rem!important",letterSpacing:-.5}} className="courier">
+              <p style={{fontSize: ".88rem!importan",letterSpacing:-.5}} className="courier">
                 Experienced Editors - Our team includes skilled professionals with
                 2+ to 4+ years of experience, ensuring precise and high-quality
                 video edits.
               </p>
             </li>
             <li>
-              <p style={{fontSize:".88rem!important",letterSpacing:-.5}} className="courier">
+              <p style={{fontSize:".88rem!importan",letterSpacing:-.5}} className="courier">
                 Customized to Your Style - Whether you prefer cinematic, fast-paced,
                 or minimal edits, we adapt to your unique branding and vision.
               </p>
@@ -85,7 +85,7 @@ const HomePage = () => {
             </li>
             <li>
               
-                      <p style={{fontSize:".88rem!important",letterSpacing:-.5}} className="courier">
+                      <p style={{fontSize:".88rem!importan",letterSpacing:-.5}} className="courier">
                         High-Retention Edits - Our expertise in YouTube, Reels, Shorts, and
                         business videos ensures content that keeps viewers hooked.
                       </p>
@@ -93,7 +93,7 @@ const HomePage = () => {
             </li>
             <li>
               
-                      <p style={{fontSize:".88rem!important",letterSpacing:-.5}} className="courier">
+                      <p style={{fontSize:".88rem!importan",letterSpacing:-.5}} className="courier">
                         Social Media Optimization - We craft viral-worthy edits that align
                         with Instagram, TikTok, and YouTube's latest trends.
                       </p>
@@ -101,13 +101,13 @@ const HomePage = () => {
             </li>
             <li>
 
-              <p style={{fontSize:".88rem!important",letterSpacing:-.5}} className="courier">
+              <p style={{fontSize:".88rem!importan",letterSpacing:-.5}} className="courier">
                 Eye-Catching Thumbnails - Get professionally designed YouTube
                 thumbnails that maximize clicks and engagement.
               </p>
             </li>
             <li>
-              <p style={{fontSize:".88rem!important",letterSpacing:-.5}} className="courier">
+              <p style={{fontSize:".88rem!importan",letterSpacing:-.5}} className="courier">
                 Let's create Video / Thumbnails that grab attention and boost your
                 bussiness or idea performance! Let me know if you're interested. 🚀
               </p>
