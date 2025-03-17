@@ -44,7 +44,7 @@ const HomePage = () => {
             </div>
             <div className="service">
               <div className="image">
-                <img src="public/edit.jpg" alt="" />
+                <img src="/edit.jpg" alt="" />
               </div>
               <h4 className="courier">Graphic Desinging</h4>
             </div>
