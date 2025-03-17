@@ -14,12 +14,12 @@ const HomePage = () => {
         <div className="landing-socials">
           <div className="socials">
             <div style={{background:'transparent'}} className="social">
-              <a style={{color:'white'}} href="#">
+              <a style={{color:'white'}} href="https://www.facebook.com/FlashCutEdits/" target="_blank">
                 <i  style={{color:'white'}} className="ri-facebook-circle-line"></i>
               </a>
             </div>
             <div style={{background:'transparent'}} className="social">
-              <a style={{color:'white'}} href="#">
+              <a style={{color:'white'}} href="https://www.instagram.com/flashcut.tanishq/" target="_blank" >
                 <i style={{color:'white'}}  className="ri-instagram-line"></i>
               </a>
             </div>
@@ -157,12 +157,12 @@ const HomePage = () => {
                 </div>
                 <div className="socials">
                   <div className="social">
-                    <a href="#">
+                    <a target="_blank" href="https://www.facebook.com/FlashCutEdits/">
                       <i className="ri-facebook-circle-line"></i>
                     </a>
                   </div>
                   <div className="social">
-                    <a href="#">
+                    <a target="_blank" href="https://www.instagram.com/flashcut.tanishq/" >
                       <i className="ri-instagram-line"></i>
                     </a>
                   </div>
